@@ -1,4 +1,4 @@
-# Shopping List and TDD
+# Learning Log
 
 Project used for teaching to a class at the University of Sao Paulo how develop full stack django, django's authentication and how to deploy an app.
 
